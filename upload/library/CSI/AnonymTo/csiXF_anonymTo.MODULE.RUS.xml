@@ -4,7 +4,7 @@
   Contacts: http://cyberspace.industries/
   License: LICENSE.ENG.txt
 -->
-<addon addon_id="csiXF_anonymTo" title="(CSI/XF/MODULE) Анонимайзер &quot;anonym.to&quot;" version_string="1.0.0" version_id="1" url="http://cyberspace.industries/" install_callback_class="" install_callback_method="" uninstall_callback_class="" uninstall_callback_method="">
+<addon addon_id="csiXF_anonymTo" title="(CSI/XF/MODULE) Анонимайзер &quot;anonym.to&quot;" version_string="1.0.1" version_id="2" url="http://cyberspace.industries/" install_callback_class="" install_callback_method="" uninstall_callback_class="" uninstall_callback_method="">
   <admin_navigation/>
   <admin_permissions/>
   <admin_style_properties/>
@@ -33,7 +33,7 @@
     <phrase title="option_csiXF_anonymTo_protectedLinks" version_id="1" version_string="1.0.0"><![CDATA[Защищённые ссылки]]></phrase>
     <phrase title="option_csiXF_anonymTo_protectedLinks_explain" version_id="1" version_string="1.0.0"><![CDATA[Укажите, для каких адресов не создавать анонимные ссылки.<br/>
 Адреса необходимо разделять запятыми, например: domain1.tld, domain2.tld, keyword1...]]></phrase>
-    <phrase title="option_group_csiXF_anonymTo" version_id="1" version_string="1.0.0"><![CDATA[(CSI/XF) Анонимайзер "anonym.to"]]></phrase>
+    <phrase title="option_group_csiXF_anonymTo" version_id="2" version_string="1.0.1"><![CDATA[(CSI/XF/MODULE) Анонимайзер "anonym.to"]]></phrase>
     <phrase title="option_group_csiXF_anonymTo_description" version_id="1" version_string="1.0.0"><![CDATA[Администраторы могут при помощи "anonym.to" убрать свой сайт из списка рефераллов лог-файлов серверов, на которые указывают ссылки с Вашего веб-сайта, тем самым владельцы этих ресурсов не смогут узнать с какого сайта к ним пришли посетители.]]></phrase>
   </phrases>
   <route_prefixes/>
